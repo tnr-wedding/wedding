@@ -1,6 +1,6 @@
 body
 {
-    background-color: salmon;
+    background-color: white;
 }
 
 h1
@@ -16,35 +16,45 @@ p
 
 #emerald_green
 {
+    border-bottom:solid 12px #005C46
     
-    background-color: #005C46;
 }
 
 #cornflower
 {
-    background-color: cornflowerblue;
+    border-bottom:solid 12px cornflowerblue
+    
     
 }
 
 #slategrey
 {
+    border-bottom:solid 12px slategrey
     
-    background-color: slategrey;
 }
 
 #plum
 {
-    background-color: #2E1836;    
+    border-bottom:solid 12px 2E1836
+      
 }
 
 #forest_green
 {
-    background-color: #003B1B
+    border-bottom:solid 12px #003B1B
+    
     
 }
 
 #sage_green
 {
+    border-bottom:solid 12px #8ABD91
     
-    background-color: #8ABD91;
+}
+
+#salmon
+{
+    
+    border-bottom:solid 12px salmon
+    
 }
