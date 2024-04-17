@@ -14,36 +14,36 @@ p
     font-family:'Courier New', Courier, monospace;
 }
 
-.emerald_green
+#emerald_green
 {
     
     background-color: #005C46;
 }
 
-.cornflower
+#cornflower
 {
     background-color: cornflowerblue;
     
 }
 
-.slategrey
+#slategrey
 {
     
     background-color: slategrey;
 }
 
-.plum
+#plum
 {
     background-color: #2E1836;    
 }
 
-.forest_green
+#forest_green
 {
     background-color: #003B1B
     
 }
 
-.sage_green
+#sage_green
 {
     
     background-color: #8ABD91;
