@@ -11,5 +11,40 @@ h1
 p
 {
     
-    font-family:'Courier New', Courier, monospace
+    font-family:'Courier New', Courier, monospace;
+}
+
+.emerald_green
+{
+    
+    background-color: #005C46;
+}
+
+.cornflower
+{
+    background-color: cornflowerblue;
+    
+}
+
+.slategrey
+{
+    
+    background-color: slategrey;
+}
+
+.plum
+{
+    background-color: #2E1836;    
+}
+
+.forest_green
+{
+    background-color: #003B1B
+    
+}
+
+.sage_green
+{
+    
+    background-color: #8ABD91;
 }
